@@ -27,35 +27,34 @@ Crave Crafters is a restaurant known for its authentic Indian cuisine. This proj
 - **Indian Cuisine Focus**: The menu features a wide range of traditional Indian dishes.
 
 ## File Structure
-
 ```
 CraveCrafters/
 │
 ├── index.html           # Homepage and menu display
+├── index.css            # Stylesheet for the homepage and menu
+├── index.js             # JavaScript for homepage and menu interactions
+│
 ├── orders.html          # Page to view past orders
+├── orders.css           # Stylesheet for orders page
+├── orders.js            # JavaScript for managing past orders
+│
 ├── login.html           # Login page
+├── login.css            # Stylesheet for login page
+├── login.js             # JavaScript for login functionality
+│
 ├── signup.html          # Sign-up page for new users
+├── signup.css           # Stylesheet for signup page
+├── signup.js            # JavaScript for sign-up functionality
+│
 ├── cart.html            # Cart management page
+├── cart.css             # Stylesheet for cart page
+├── cart.js              # JavaScript for cart management
+│
 ├── about.html           # About the restaurant
+├── about.css            # Stylesheet for about page
+│
 ├── contact.html         # Contact information page
-│
-├── index.css
-├── index.css              # Folder containing CSS files
-              # Folder containing CSS files
-│   ├── main.css         # Primary stylesheet for the homepage and menu
-│   ├── orders.css       # Stylesheet for orders page
-│   ├── login.css        # Stylesheet for login page
-│   ├── signup.css       # Stylesheet for signup page
-│   ├── cart.css         # Stylesheet for cart page
-│
-├── scripts/             # Folder containing JavaScript files
-│   ├── main.js          # JavaScript for homepage and menu interactions
-│   ├── orders.js        # JavaScript for managing past orders
-│   ├── login.js         # JavaScript for login functionality
-│   ├── signup.js        # JavaScript for sign-up functionality
-│   ├── cart.js          # JavaScript for cart management
-│
-└── images/              # Folder containing images used in the project
+├── contact.css          # Stylesheet for contact page
 ```
 
 ## Getting Started
